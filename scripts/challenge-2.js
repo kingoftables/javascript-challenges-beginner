@@ -16,3 +16,14 @@ if (!output) throw "Output container not found.";
 
 //@ts-check
 // your code starts after this line
+
+
+//@ts-check class=print_means_1x2=2
+//@ts-check class=print_means_1x3=3
+//@ts-check class=print_means_1x4=4
+//@ts-check class=print_means_1x5=5
+//@ts-check class=print_means_1x6=6
+//@ts-check class=print_means_1x7=7
+//@ts-check class=print_means_1x8=8
+//@ts-check class=print_means_1x9=9
+//@ts-check class=print_means_1x10=10
